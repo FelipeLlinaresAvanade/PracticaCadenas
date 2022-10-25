@@ -30,7 +30,7 @@ while (continuar)
     Console.WriteLine("4: Terminar");
 
     opcionSeleccionada = Console.ReadLine();
-    string cadena1, cadena2;
+    string cadena1;
 
    if(opcionSeleccionada != null)
     {
@@ -39,10 +39,11 @@ while (continuar)
             case "1":
                 Console.WriteLine("Introduzca la palabra a sustituir y la nueva palabra:");
                 cadena1 = Console.ReadLine();
-                cadena2 = Console.ReadLine();
-                if (!string.IsNullOrEmpty(cadena1) && !string.IsNullOrEmpty(cadena2))
+                string[] palabras = cadena1.Split(' ');
+                if (palabras.Length == 2)
                 {
-                    cadena = cadena.Replace(cadena1, cadena2);
+
+                    cadena = cadena.Replace(palabras[0], palabras[1]);
                     Console.WriteLine("Resultado: " + cadena);
                 }
                 else
