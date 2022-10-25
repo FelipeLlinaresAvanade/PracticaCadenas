@@ -1,0 +1,15 @@
+C:\Users\f.llinares.gomez\source\repos\PracticaCadenas\bin\Debug\net6.0\PracticaCadenas.exe
+C:\Users\f.llinares.gomez\source\repos\PracticaCadenas\bin\Debug\net6.0\PracticaCadenas.deps.json
+C:\Users\f.llinares.gomez\source\repos\PracticaCadenas\bin\Debug\net6.0\PracticaCadenas.runtimeconfig.json
+C:\Users\f.llinares.gomez\source\repos\PracticaCadenas\bin\Debug\net6.0\PracticaCadenas.dll
+C:\Users\f.llinares.gomez\source\repos\PracticaCadenas\bin\Debug\net6.0\PracticaCadenas.pdb
+C:\Users\f.llinares.gomez\source\repos\PracticaCadenas\obj\Debug\net6.0\PracticaCadenas.csproj.AssemblyReference.cache
+C:\Users\f.llinares.gomez\source\repos\PracticaCadenas\obj\Debug\net6.0\PracticaCadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.llinares.gomez\source\repos\PracticaCadenas\obj\Debug\net6.0\PracticaCadenas.AssemblyInfoInputs.cache
+C:\Users\f.llinares.gomez\source\repos\PracticaCadenas\obj\Debug\net6.0\PracticaCadenas.AssemblyInfo.cs
+C:\Users\f.llinares.gomez\source\repos\PracticaCadenas\obj\Debug\net6.0\PracticaCadenas.csproj.CoreCompileInputs.cache
+C:\Users\f.llinares.gomez\source\repos\PracticaCadenas\obj\Debug\net6.0\PracticaCadenas.dll
+C:\Users\f.llinares.gomez\source\repos\PracticaCadenas\obj\Debug\net6.0\refint\PracticaCadenas.dll
+C:\Users\f.llinares.gomez\source\repos\PracticaCadenas\obj\Debug\net6.0\PracticaCadenas.pdb
+C:\Users\f.llinares.gomez\source\repos\PracticaCadenas\obj\Debug\net6.0\PracticaCadenas.genruntimeconfig.cache
+C:\Users\f.llinares.gomez\source\repos\PracticaCadenas\obj\Debug\net6.0\ref\PracticaCadenas.dll
