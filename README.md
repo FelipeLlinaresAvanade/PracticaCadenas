@@ -1,4 +1,5 @@
 # Practica Cadenas
+
 1.-Solicitar al usuario que introduzca una cadena de al menos 40 caracteres. Si la longitud de la cadena es menor de 40 caracteres, se mostrará un aviso al usuario, informándole de la longitud actual, y solicitándole que vuelva a introducir una nueva cadena. Por ejemplo: "La cadena introducida posee únicamente XX caracteres. Por favor, introduzca una nueva cadena con más de 40 caracteres: ".
 
 2.- Una vez tengamos la cadena con el tamaño mínimo deseado, aparecerá un menú para:
